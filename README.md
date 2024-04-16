@@ -1,4 +1,4 @@
-```markdown
+
 # IAM Policy Validator
 
 This package provides a method to validate AWS IAM Role Policy format in input JSON data.
