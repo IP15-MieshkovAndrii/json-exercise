@@ -1,0 +1,12 @@
+{
+  "name": "check-resource",
+  "version": "1.0.0",
+  "description": "Method to validate AWS::IAM::Role Policy format in input JSON data.",
+  "main": "checkResource.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
